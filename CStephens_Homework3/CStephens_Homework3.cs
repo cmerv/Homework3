@@ -7,7 +7,6 @@ class Program
     Console.WriteLine("Input an integer:");
     int inputInteger = Convert.ToInt16(Console.ReadLine());
     int divCounter = 2;
-    Console.WriteLine(inputInteger);
     do {
     
     divCounter++;

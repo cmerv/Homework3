@@ -1,0 +1,15 @@
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\bin\Debug\net7.0\CStephens_Homework3.exe
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\bin\Debug\net7.0\CStephens_Homework3.deps.json
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\bin\Debug\net7.0\CStephens_Homework3.runtimeconfig.json
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\bin\Debug\net7.0\CStephens_Homework3.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\bin\Debug\net7.0\CStephens_Homework3.pdb
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.csproj.AssemblyReference.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.AssemblyInfoInputs.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.AssemblyInfo.cs
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\refint\CStephens_Homework3.dll
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.pdb
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\CStephens_Homework3.genruntimeconfig.cache
+C:\Users\Christopher\OneDrive - West Texas A and M University\Spring2023\CIDM 2315\Programs\Homework3\CStephens_Homework3\obj\Debug\net7.0\ref\CStephens_Homework3.dll
