@@ -12,11 +12,11 @@ class Program
     
     divCounter++;
     } while (divCounter<inputInteger&&inputInteger%divCounter!=0);
-    if (inputInteger%divCounter=0){
-        Console.WriteLine($"{inputInteger} is not prime.")
-        else if (inputInteger%divCounter!=0){
-            Console.WriteLine($"{inputIneger} is prime.");
+    if (inputInteger%divCounter==0)
+    {
+        Console.WriteLine($"{inputInteger} is not prime.");
+    } else if (inputInteger%divCounter!=0){
+            Console.WriteLine($"{inputInteger} is prime.");
         }
-    }
     }
 }
