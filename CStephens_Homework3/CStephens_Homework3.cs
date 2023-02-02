@@ -8,14 +8,15 @@ class Program
     int inputInteger = Convert.ToInt16(Console.ReadLine());
     int divCounter = 2;
     do {
-    
-    divCounter++;
-    } while (divCounter<inputInteger&&inputInteger%divCounter!=0);
+    divCounter++; // counter up 1
+    } while (divCounter<inputInteger&&inputInteger%divCounter!=0); // if our modulus is 0 then we know it is divisible by the latest value of divCounter. divCounter stops at inputInteger - 1
     if (inputInteger%divCounter==0)
     {
         Console.WriteLine($"{inputInteger} is not prime.");
     } else if (inputInteger%divCounter!=0){
             Console.WriteLine($"{inputInteger} is prime.");
         }
+
+    //
     }
 }
